@@ -10,6 +10,7 @@ public class Sample {
 		
 		System.out.println("sample2");
 		System.out.println("sample3");
+		System.out.println("sample4");
 	}
 
 }
